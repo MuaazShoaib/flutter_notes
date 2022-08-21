@@ -31,3 +31,4 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 26 | SliderTheme | Applies a slider theme to descendant Slider widgets. |
 | 27 | Slider | Sliders let users select from a range of values by moving the slider thumb. |
 | 28 | MaterialPageRoute | A modal route that replaces the entire screen with a platform-adaptive transition. |
+| 29 | TextField | Touching a text field places the cursor and displays the keyboard. The TextField widget implements this component. |
