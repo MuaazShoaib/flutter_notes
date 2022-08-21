@@ -36,3 +36,9 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 31 | DropdownButton | Shows the currently selected item and an arrow that opens a menu for selecting another item. |
 | 32 | RoundedRectangleBorder | A rectangular border with rounded corners. |
 | 33 | CupertinoPicker | An iOS-style picker control. Used to select an item in a short list. |
+| 34 | MaterialButton | A utility class for building Material buttons that depend on the ambient ButtonTheme and Theme. |
+| 35 | IconButton | An icon button is a picture printed on a Material widget that reacts to touches by filling with color (ink). |
+| 36 | ListView | A scrollable, linear list of widgets. ListView is the most commonly used scrolling widget. |
+| 37 | Flexible | A widget that controls how a child of a Row, Column, or Flex flexes. |
+| 38 | Hero | A widget that marks its child as being a candidate for hero animations. |
+
