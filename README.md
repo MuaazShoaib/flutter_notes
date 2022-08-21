@@ -44,3 +44,16 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 39 | Checkbox | Checkboxes allow the user to select multiple options from a set. The Checkbox widget implements this component. |
 | 41 | FloatingActionButton | A floating action button is a circular icon button that hovers over content to promote a primary action in the application. |
 | 42 | Stack | This class is useful if you want to overlap several children in a simple way, for example having some text and an image, overlaid with a gradient and a button attached to the bottom. |
+
+https://docs.flutter.dev/development/ui/widgets
+| Total Widgets | Widget catalog | 
+| - | - | 
+| 03 | Accessibility widgets: https://docs.flutter.dev/development/ui/widgets/accessibility | 
+| 21 | Animation and motion: https://docs.flutter.dev/development/ui/widgets/animation | 
+| 04 | Assets, images, and icon widgets: https://docs.flutter.dev/development/ui/widgets/assets | 
+| 02 | Async widgets: https://docs.flutter.dev/development/ui/widgets/async |
+| 11 | Basic widgets: https://docs.flutter.dev/development/ui/widgets/basics |
+| 25 | Cupertino (iOS-style) widgets: https://docs.flutter.dev/development/ui/widgets/cupertino |
+| 04 | Input widgets: https://docs.flutter.dev/development/ui/widgets/input |
+| 12 | Interaction model widgets: https://docs.flutter.dev/development/ui/widgets/interaction |
+| 42 | Layout widgets: https://docs.flutter.dev/development/ui/widgets/layout |
