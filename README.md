@@ -41,4 +41,6 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 36 | ListView | A scrollable, linear list of widgets. ListView is the most commonly used scrolling widget. |
 | 37 | Flexible | A widget that controls how a child of a Row, Column, or Flex flexes. |
 | 38 | Hero | A widget that marks its child as being a candidate for hero animations. |
-
+| 39 | Checkbox | Checkboxes allow the user to select multiple options from a set. The Checkbox widget implements this component. |
+| 41 | FloatingActionButton | A floating action button is a circular icon button that hovers over content to promote a primary action in the application. |
+| 42 | Stack | This class is useful if you want to overlap several children in a simple way, for example having some text and an image, overlaid with a gradient and a button attached to the bottom. |
