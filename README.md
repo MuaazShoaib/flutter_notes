@@ -32,3 +32,7 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 27 | Slider | Sliders let users select from a range of values by moving the slider thumb. |
 | 28 | MaterialPageRoute | A modal route that replaces the entire screen with a platform-adaptive transition. |
 | 29 | TextField | Touching a text field places the cursor and displays the keyboard. The TextField widget implements this component. |
+| 30 | ThemeData | Defines the configuration of the overall visual Theme for a MaterialApp or a widget subtree within the app. |
+| 31 | DropdownButton | Shows the currently selected item and an arrow that opens a menu for selecting another item. |
+| 32 | RoundedRectangleBorder | A rectangular border with rounded corners. |
+| 33 | CupertinoPicker | An iOS-style picker control. Used to select an item in a short list. |
