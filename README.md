@@ -22,6 +22,12 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 17 | ListTile | A single fixed-height row that typically contains some text as well as a leading or trailing icon. |
 | 18 | StatefulWidget | A widget that has mutable state. |
 | 19 | Expanded | A widget that expands a child of a Row, Column, or Flex. |
-| 20 | FlatButton | A Material Design "flat button". This class is deprecated, please use TextButton instead. |
+| 20 | Theme | Applies a theme to descendant widgets. A theme describes the colors and typographic choices of an application. |
 | 21 | TextButton | A Material Design text button. A simple flat button without a border outline. |
-
+| 22 | GestureDetector | A widget that detects gestures. Attempts to recognize gestures that correspond to its non-null callbacks. |
+| 23 | Container | A convenience widget that combines common painting, positioning, and sizing widgets. |
+| 24 | BoxDecoration | An immutable description of how to paint a box. |
+| 25 | CircleBorder | A border that fits a circle within the available space. |
+| 26 | SliderTheme | Applies a slider theme to descendant Slider widgets. |
+| 27 | Slider | Sliders let users select from a range of values by moving the slider thumb. |
+| 28 | MaterialPageRoute | A modal route that replaces the entire screen with a platform-adaptive transition. |
