@@ -20,4 +20,8 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 | 15 | Row | Layout a list of child widgets in the horizontal direction. |
 | 16 | Icon | A Material Design icon. |
 | 17 | ListTile | A single fixed-height row that typically contains some text as well as a leading or trailing icon. |
+| 18 | StatefulWidget | A widget that has mutable state. |
+| 19 | Expanded | A widget that expands a child of a Row, Column, or Flex. |
+| 20 | FlatButton | A Material Design "flat button". This class is deprecated, please use TextButton instead. |
+| 21 | TextButton | A Material Design text button. A simple flat button without a border outline. |
 
