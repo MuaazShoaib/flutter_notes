@@ -62,3 +62,5 @@ https://docs.flutter.dev/development/ui/widgets
 | 13 | [Scrolling widgets](https://docs.flutter.dev/development/ui/widgets/scrolling) |
 | 03 | [Styling widgets](https://docs.flutter.dev/development/ui/widgets/styling) |
 | 03 | [Text widgets](https://docs.flutter.dev/development/ui/widgets/text) |
+
+Total Widgets in Flutter is 225 
