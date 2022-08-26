@@ -48,13 +48,17 @@ Flutter widget index: https://docs.flutter.dev/reference/widgets
 https://docs.flutter.dev/development/ui/widgets
 | Total Widgets | Widget catalog | 
 | - | - | 
-| 03 | Accessibility widgets: https://docs.flutter.dev/development/ui/widgets/accessibility | 
-| 21 | Animation and motion: https://docs.flutter.dev/development/ui/widgets/animation | 
-| 04 | Assets, images, and icon widgets: https://docs.flutter.dev/development/ui/widgets/assets | 
-| 02 | Async widgets: https://docs.flutter.dev/development/ui/widgets/async |
-| 11 | Basic widgets: https://docs.flutter.dev/development/ui/widgets/basics |
-| 25 | Cupertino (iOS-style) widgets: https://docs.flutter.dev/development/ui/widgets/cupertino |
-| 04 | Input widgets: https://docs.flutter.dev/development/ui/widgets/input |
-| 12 | Interaction model widgets: https://docs.flutter.dev/development/ui/widgets/interaction |
-| 42 | Layout widgets: https://docs.flutter.dev/development/ui/widgets/layout |
-| 42 | Material Components widgets: https://docs.flutter.dev/development/ui/widgets/material |
+| 03 | [Accessibility widgets](https://docs.flutter.dev/development/ui/widgets/accessibility) | 
+| 21 | [Animation and motion](https://docs.flutter.dev/development/ui/widgets/animation) | 
+| 04 | [Assets, images, and icon widgets](https://docs.flutter.dev/development/ui/widgets/assets) | 
+| 02 | [Async widgets](https://docs.flutter.dev/development/ui/widgets/async) |
+| 11 | [Basic widgets](https://docs.flutter.dev/development/ui/widgets/basics) |
+| 25 | [Cupertino (iOS-style) widgets](https://docs.flutter.dev/development/ui/widgets/cupertino) |
+| 04 | [Input widgets](https://docs.flutter.dev/development/ui/widgets/input) |
+| 12 | [Interaction model widgets](https://docs.flutter.dev/development/ui/widgets/interaction) |
+| 42 | [Layout widgets](https://docs.flutter.dev/development/ui/widgets/layout) |
+| 42 | [Material Components widgets](https://docs.flutter.dev/development/ui/widgets/material) |
+| 10 | [Painting and effect widgets](https://docs.flutter.dev/development/ui/widgets/painting) |
+| 13 | [Scrolling widgets](https://docs.flutter.dev/development/ui/widgets/scrolling) |
+| 03 | [Styling widgets](https://docs.flutter.dev/development/ui/widgets/styling) |
+| 03 | [Text widgets](https://docs.flutter.dev/development/ui/widgets/text) |
