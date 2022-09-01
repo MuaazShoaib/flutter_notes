@@ -20,3 +20,8 @@
 | 01 | 16. Publishing to the App Stores | | |
 | 01 | 17. Roundup & Next Steps | | |
 | 01 | 18. Flutter 2 Update | | | 
+| 12 | 19. Portfolio Item - WhatsApp Clone | | | 
+| 12 | 20. Portfolio Item - Amazon Clone | | | 
+| 07 | 21. Portfolio Item - Instagram Clone | | | 
+| 07 | 22. Portfolio Item - Ticket Booking App | | | 
+| 38 | 23. Portfolio Item - Food Delivery App | | | 
